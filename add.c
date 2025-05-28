@@ -1,3 +1,4 @@
+//Declare more variables
 #include<stdio.h>
 int main() {
 	int a=2,b=4:
@@ -5,5 +6,4 @@ int main() {
 		scanf("%d");
 return 0;
 }
-//add more variables
 
